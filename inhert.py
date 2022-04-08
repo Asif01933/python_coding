@@ -3,6 +3,7 @@ class Devid(Python):
     pass
 
 obj=Devid()
+
 print(obj.name)
 print(obj.age)
 
